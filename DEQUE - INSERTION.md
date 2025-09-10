@@ -27,9 +27,8 @@ de.append(15)
 print("The deque after appending at right is :")
 print(de)
 ~~~
-
 # OUTPUT
-<img width="1207" height="336" alt="image" src="https://github.com/user-attachments/assets/308a6c8e-dd8b-4e7c-aea7-fd3c1579eb53" />
+<img width="1207" height="336" alt="image" src="https://github.com/user-attachments/assets/9f823d1d-2df5-43f8-b9f7-dc8a86e4264c" />
 
 # RESULT
 Thus the Python program to insert elements at REAR END of deque using a collection built-in function has been implemented and executed successfully.
