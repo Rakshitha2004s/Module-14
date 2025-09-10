@@ -64,7 +64,7 @@ while not myQueue.isEmpty():
 	print(myQueue.delete())
 ~~~
 # OUTPUT
-<img width="1195" height="452" alt="image" src="https://github.com/user-attachments/assets/57f1bb87-bcf6-4848-a10a-06fd2d428d90" />
+<img width="1195" height="452" alt="image" src="https://github.com/user-attachments/assets/a46e5e77-19ac-4043-87f7-4b6f6862e828" />
 
 # RESULT
 Thus the Python program for simple implementation of Priority Queue using Queue has been implemented and executed successfully.
